@@ -17,7 +17,8 @@
     "title": "享受您的美味",
     "highlight": "美食",
     "subtitle": "我们通过快速配送为您送上美味佳肴",
-    "orderNow": "立即下单"
+    "orderNow": "立即下单",
+    "viewPopular": "View Popular"
   },
   "services": {
     "sectionTitle": "我们的服务",
@@ -126,8 +127,7 @@
     "english": "English",
     "hindi": "हिंदी",
     "kannada": "ಕನ್ನಡ",
-    "bengali": "বাংলা",
-    "chinese": "中文",
-    "marathi": "मराठी"
-  }
+    "marathi": "मराठी",
+    "chinese": "中文"
+}
 }

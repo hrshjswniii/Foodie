@@ -88,7 +88,6 @@
         background-color: var(--eye-ball);
         color: var(--lead);
         transition: background-color 0.4s ease, color 0.4s ease;
-        padding-top: 14vh;
         overflow-x: hidden;
     }
 
@@ -232,6 +231,35 @@
         width: 110px !important; /* language select shorter */
     }
 
+    /* Navbar Responsiveness Fixes */
+    @media (min-width: 1024px) and (max-width: 1400px) {
+        .navList {
+            gap: 1rem !important;
+        }
+        .navList a {
+            font-size: 0.95rem !important;
+        }
+        .desktop-action {
+            gap: 0.8rem !important;
+        }
+        .navbar-search input {
+            width: 100px !important;
+        }
+        .navbar .btn {
+            padding: 0.7rem 1.2rem !important;
+            font-size: 1rem !important;
+        }
+    }
+
+    @media (max-width: 1200px) {
+        .navList {
+            display: none !important;
+        }
+        .desktop-action .hamberger {
+            display: block !important;
+        }
+    }
+
 
     /* Hover effect for navbar links */
     .navList a {
@@ -309,7 +337,7 @@
 .btn {
     display: inline-block;
     padding: 0.9rem 2rem;
-    margin-top: 12px;
+    margin-top: 0; /* Fixed: Remove margin-top causing misalignment */
     background-color: var(--gold-finger);
     border: none;
     border-radius: 1rem;
@@ -318,6 +346,8 @@
     color: var(--pure-while);
     transition: 0.3s ease-in-out;
     border: none;
+    cursor: pointer;
+    align-self: center;
 }
 
     .btn:hover {

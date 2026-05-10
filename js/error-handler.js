@@ -527,3 +527,27 @@ if (typeof module !== 'undefined' && module.exports) {
         showFieldError
     };
 }
+
+// Global Export for browser modules
+window.FoodieErrorHandler = {
+    ErrorTypes,
+    FoodieError,
+    NetworkError,
+    ValidationError,
+    StorageError,
+    errorLogger,
+    handleStorageError,
+    handleNetworkError,
+    handleValidationError,
+    handleDOMError,
+    handleCartError,
+    safeLocalStorage,
+    safeQuery,
+    safeQueryAll,
+    safeFetch,
+    safeJSONParse,
+    retry,
+    CircuitBreaker,
+    showErrorToast,
+    showFieldError
+};

@@ -17,7 +17,8 @@
     "title": "ଆପଣଙ୍କ ସ୍ୱାଦିଷ୍ଟ",
     "highlight": "ଖାଦ୍ୟକୁ ଉପଭୋଗ କରନ୍ତୁ",
     "subtitle": "ଆମେ ଦ୍ରୁତ ଡିଲିଭରୀ ସହିତ ଆପଣଙ୍କ ଭୋକକୁ ସ୍ୱାଦିଷ୍ଟ ଖାଦ୍ୟରେ ପୂରଣ କରୁଛୁ",
-    "orderNow": "ଏବେ ଅର୍ଡର୍ କରନ୍ତୁ"
+    "orderNow": "ଏବେ ଅର୍ଡର୍ କରନ୍ତୁ",
+    "viewPopular": "View Popular"
   },
   "services": {
     "sectionTitle": "ଆମର ସେବାଗୁଡ଼ିକ",
@@ -55,14 +56,9 @@
     "english": "English",
     "hindi": "हिंदी",
     "kannada": "ಕನ್ನಡ",
-    "bengali": "বাংলা",
-    "chinese": "中文",
     "marathi": "मराठी",
-    "japanese": "日本語",
-    "assamese": "অসমীয়া",
-    "odia": "ଓଡ଼ିଆ"
-  }
-,
+    "chinese": "中文"
+},
   "qr": {
     "scan": "ଡାଉନଲୋଡ୍ କରିବାକୁ ସ୍କାନ୍ କରନ୍ତୁ",
     "quickAccess": "ଆମ ମୋବାଇଲ୍ ଆପ୍‌କୁ ଦ୍ରୁତ ପ୍ରବେଶ",

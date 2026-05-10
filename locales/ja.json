@@ -17,7 +17,8 @@
     "title": "おいしい",
     "highlight": "料理を楽しもう",
     "subtitle": "私たちは迅速な配達であなたのお腹を満たします",
-    "orderNow": "今すぐ注文"
+    "orderNow": "今すぐ注文",
+    "viewPopular": "View Popular"
   },
   "services": {
     "sectionTitle": "私たちのサービス",
@@ -126,9 +127,7 @@
     "english": "English",
     "hindi": "हिंदी",
     "kannada": "ಕನ್ನಡ",
-    "bengali": "বাংলা",
-    "chinese": "中文",
     "marathi": "मराठी",
-    "japanese": "日本語"
-  }
+    "chinese": "中文"
+}
 }

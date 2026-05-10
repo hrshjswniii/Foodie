@@ -5,7 +5,7 @@
     "menu": "Menu",
     "about": "About Us",
     "contact": "Contact Us",
-    "nearby": "Nearby Restaurants",
+    "nearby": "Nearby",
     "rideWithUs": "Ride With Us",
     "searchPlaceholder": "Search your food ...",
     "darkMode": "Dark Mode",
@@ -18,7 +18,8 @@
     "title": "Enjoy Your Delicious",
     "highlight": "Food",
     "subtitle": "We will fill your tummy with delicious food with fast delivery",
-    "orderNow": "Order now"
+    "orderNow": "Order now",
+    "viewPopular": "View Popular"
   },
   "services": {
     "sectionTitle": "Our Services",
@@ -127,7 +128,7 @@
     "english": "English",
     "hindi": "हिंदी",
     "kannada": "ಕನ್ನಡ",
-    "marathi": "मराठी"
+    "marathi": "मराठी",
     "chinese": "中文"
   },
   "aboutUs": {
@@ -140,7 +141,7 @@
       "title": "Our Story",
       "para1": "Founded in 2022, Foodie began with a simple mission: to connect food lovers with their favorite restaurants through fast, reliable delivery. What started as a small startup has grown into a trusted platform serving thousands of customers daily.",
       "para2": "We believe that great food should be accessible to everyone, anytime. Our team works tirelessly to ensure that every meal arrives hot, fresh, and on time.",
-      "para3": "Finally...at Foodie we don't just deliver meals, we deliver happiness at a time 🍽️💛"
+      "para3": "Finally...at Foodie we don't just deliver meals, we deliver happiness at a time"
     },
     "mission": {
       "mission": {

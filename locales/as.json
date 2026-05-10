@@ -17,7 +17,8 @@
     "title": "আপোনাৰ সুস্বাদু",
     "highlight": "খাদ্য উপভোগ কৰক",
     "subtitle": "আমি দ্ৰুত ডেলিভাৰীৰ সৈতে আপোনাৰ ভোক সুস্বাদু খাদ্যেৰে পূৰণ কৰোঁ",
-    "orderNow": "এতিয়াই অৰ্ডাৰ কৰক"
+    "orderNow": "এতিয়াই অৰ্ডাৰ কৰক",
+    "viewPopular": "View Popular"
   },
   "services": {
     "sectionTitle": "আমাৰ সেৱাসমূহ",
@@ -39,10 +40,7 @@
     "english": "English",
     "hindi": "हिंदी",
     "kannada": "ಕನ್ನಡ",
-    "bengali": "বাংলা",
-    "chinese": "中文",
     "marathi": "मराठी",
-    "japanese": "日本語",
-    "assamese": "অসমীয়া"
-  }
+    "chinese": "中文"
+}
 }
