@@ -1,8 +1,8 @@
 # <img src="https://www.nsoc.in/_next/image?url=%2Flogo.png&w=64&q=75" width="45" align="center" /> Nexus Spring of Code
 
 > Officially participating in
-# Nexus Spring of Code 2026**
-# My ELUSOC 2026 Admin Badges!
+## Nexus Spring of Code 2026
+## ELUSOC 2026
 ## ❄️ Winter Of Code Social 2025
 ## 🎃 Hacktoberfest 2025
 
